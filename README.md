@@ -67,6 +67,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-Nishank Goyal - [Your Email]
+Nishank Goyal - [nishankgoyal427@gmail.com]
 
-Project Link: [https://github.com/Nishank-Goyal/quicksell](https://github.com/Nishank-Goyal/quicksell)
+Project Link: [https://github.com/Nishank-Goyal/quicksell](https://nishank-goyal.github.io/quicksell/)
